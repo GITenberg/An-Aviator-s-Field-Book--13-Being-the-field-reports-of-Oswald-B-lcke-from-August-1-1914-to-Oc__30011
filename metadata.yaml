@@ -1,0 +1,43 @@
+_repo: An-Aviator-s-Field-Book--13-Being-the-field-reports-of-Oswald-B-lcke-from-August-1-1914-to-Oc__30011
+_version: 0.1.0
+alternative_title: Held in de Lucht. English
+contributor:
+  translator:
+    agent_name: Hirsch, Robert Reynold
+    gutenberg_agent_id: '34309'
+    url: http://www.gutenberg.org/2009/agents/34309
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boelcke, Oswald
+    aliases:
+    - Bölcke, Oswald
+    - Bolcke, Oswald
+    birthdate: 1891
+    deathdate: 1916
+    gutenberg_agent_id: '34308'
+    url: http://www.gutenberg.org/2009/agents/34308
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Oswald_Boelcke
+    - http://de.wikipedia.org/wiki/Oswald_Boelcke
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2009-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30011'
+  lccn: '18004236'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Aerial operations'
+- !lcsh 'Boelcke, Oswald, 1891-1916'
+- !lcsh 'World War, 1914-1918 -- Personal narratives, German'
+title: "An Aviator's Field Book\r\nBeing the field reports of Oswald Bölcke, from\
+  \ August 1, 1914 to October 28, 1916"
+url: http://www.gutenberg.org/ebooks/30011
