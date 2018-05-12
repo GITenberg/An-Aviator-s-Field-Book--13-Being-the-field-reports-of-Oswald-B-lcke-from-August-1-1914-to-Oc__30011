@@ -23,6 +23,8 @@ creator:
     - http://en.wikipedia.org/wiki/Oswald_Boelcke
     - http://de.wikipedia.org/wiki/Oswald_Boelcke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30011#An-Aviator-s-Field-Book--13-Being-the-field-reports-of-Oswald-B-lcke-from-August-1-1914-to-Oc_
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2009-09-17'
 gutenberg_type: Text
